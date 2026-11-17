@@ -1,0 +1,6 @@
+,unit_price_bdt,quantity,discount_percentage,delivery_days,revenue_bdt
+unit_price_bdt,1.0,-0.02,-0.01,0.04,0.84
+quantity,-0.02,1.0,0.01,0.02,0.3
+discount_percentage,-0.01,0.01,1.0,0.0,-0.12
+delivery_days,0.04,0.02,0.0,1.0,0.03
+revenue_bdt,0.84,0.3,-0.12,0.03,1.0
