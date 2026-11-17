@@ -1,0 +1,601 @@
+order_id,order_date,month,product_category,unit_price_bdt,quantity,discount_percentage,payment_method,city,delivery_days,revenue_bdt
+ORD-001,2025-09-06,9,Home & Kitchen,7580.58,1,26.87,Nagad,Khulna,1,5543.68
+ORD-002,2025-04-15,4,Fashion,4687.88,3,38.42,Cash on Delivery,Chattogram,7,8660.39
+ORD-003,2025-04-07,4,Beauty,3642.31,4,14.84,Nagad,Dhaka,4,12407.18
+ORD-004,2025-02-17,2,Home & Kitchen,11033.88,3,17.0,Card,Rajshahi,3,27474.37
+ORD-005,2025-01-02,1,Electronics,43399.69,2,32.48,bKash,Khulna,4,58606.94
+ORD-006,2025-07-02,7,Sports,9536.66,5,20.23,Nagad,Chattogram,2,38036.96
+ORD-007,2025-12-27,12,Home & Kitchen,13108.58,2,29.46,Nagad,Sylhet,7,18493.59
+ORD-008,2025-03-22,3,Home & Kitchen,2420.28,4,18.39,Card,Dhaka,7,7900.75
+ORD-009,2025-06-10,6,Electronics,33359.99,3,8.62,Cash on Delivery,Dhaka,1,91453.07
+ORD-010,2025-12-08,12,Fashion,2920.49,1,29.81,Cash on Delivery,Khulna,6,2049.89
+ORD-011,2025-10-09,10,Fashion,3542.07,3,5.25,bKash,Barishal,3,10068.34
+ORD-012,2025-01-02,1,Sports,8091.36,1,7.94,bKash,Dhaka,1,7448.9
+ORD-013,2025-07-02,7,Grocery,2427.56,5,25.07,Cash on Delivery,Dhaka,7,9094.84
+ORD-014,2025-02-22,2,Beauty,3942.94,4,29.89,bKash,Dhaka,1,11057.58
+ORD-015,2025-04-01,4,Fashion,2085.26,2,35.79,Cash on Delivery,Sylhet,2,2677.88
+ORD-016,2025-03-31,3,Electronics,33418.28,3,10.9,Card,Dhaka,1,89327.05
+ORD-017,2025-08-12,8,Grocery,1899.96,4,4.43,Cash on Delivery,Chattogram,4,7263.17
+ORD-018,2025-03-14,3,Electronics,16572.44,2,38.24,Cash on Delivery,Barishal,5,20470.28
+ORD-019,2025-04-02,4,Beauty,758.32,2,6.18,Cash on Delivery,Dhaka,3,1422.91
+ORD-020,2025-03-24,3,Grocery,198.27,3,7.91,Cash on Delivery,Chattogram,1,547.77
+ORD-021,2025-05-11,5,Home & Kitchen,11838.27,2,11.65,Cash on Delivery,Chattogram,1,20918.23
+ORD-022,2025-08-28,8,Fashion,3193.35,4,21.18,Cash on Delivery,Rajshahi,7,10067.99
+ORD-023,2025-05-26,5,Sports,11836.6,1,35.31,Cash on Delivery,Dhaka,6,7657.1
+ORD-024,2025-04-30,4,Beauty,2020.4,5,30.42,Cash on Delivery,Dhaka,7,7028.98
+ORD-025,2025-07-08,7,Home & Kitchen,14686.42,2,28.33,Cash on Delivery,Dhaka,4,21051.52
+ORD-026,2025-08-13,8,Electronics,19403.56,3,7.01,bKash,Rajshahi,4,54130.1
+ORD-027,2025-01-06,1,Grocery,2004.84,1,14.31,Cash on Delivery,Rajshahi,6,1717.94
+ORD-028,2025-11-21,11,Electronics,5189.64,2,19.14,Cash on Delivery,Dhaka,5,8392.68
+ORD-029,2025-12-01,12,Electronics,25662.58,4,5.9,Cash on Delivery,Dhaka,4,96593.97
+ORD-030,2025-08-08,8,Home & Kitchen,12189.25,2,10.94,Cash on Delivery,Sylhet,3,21711.49
+ORD-031,2025-07-29,7,Home & Kitchen,13930.76,1,12.33,Cash on Delivery,Dhaka,4,12213.1
+ORD-032,2025-09-11,9,Sports,9995.19,3,5.09,Nagad,Dhaka,1,28459.3
+ORD-033,2025-06-10,6,Fashion,703.34,1,22.01,Card,Chattogram,2,548.53
+ORD-034,2025-05-14,5,Fashion,2549.86,2,28.2,Card,Dhaka,6,3661.6
+ORD-035,2025-05-09,5,Grocery,216.88,3,2.8,bKash,Dhaka,7,632.41
+ORD-036,2025-02-28,2,Electronics,6253.78,3,19.24,bKash,Chattogram,1,15151.66
+ORD-037,2025-11-04,11,Electronics,30875.79,4,31.29,Cash on Delivery,Dhaka,1,84859.03
+ORD-038,2025-04-28,4,Grocery,1811.82,4,29.92,Nagad,Chattogram,1,5078.89
+ORD-039,2025-04-14,4,Electronics,35156.85,5,32.6,Nagad,Khulna,6,118478.58
+ORD-040,2025-12-18,12,Home & Kitchen,13089.48,1,17.93,Card,Chattogram,3,10742.54
+ORD-041,2025-07-04,7,Fashion,4566.87,2,32.82,Card,Dhaka,3,6136.05
+ORD-042,2025-08-15,8,Beauty,3263.22,1,9.63,bKash,Sylhet,1,2948.98
+ORD-043,2025-03-31,3,Home & Kitchen,1495.28,1,14.43,Nagad,Dhaka,7,1279.52
+ORD-044,2025-04-12,4,Fashion,1789.94,2,7.05,Nagad,Rajshahi,4,3327.5
+ORD-045,2025-09-23,9,Beauty,2601.02,3,18.7,Cash on Delivery,Dhaka,6,6343.89
+ORD-046,2025-06-14,6,Beauty,3475.06,5,15.68,Card,Rajshahi,5,14650.87
+ORD-047,2025-02-23,2,Fashion,524.75,4,9.64,Cash on Delivery,Dhaka,1,1896.66
+ORD-048,2025-11-01,11,Fashion,3330.46,4,30.07,Card,Dhaka,6,9315.97
+ORD-049,2025-05-28,5,Home & Kitchen,10417.48,4,12.55,Nagad,Chattogram,4,36440.35
+ORD-050,2025-09-01,9,Electronics,2787.92,1,10.91,Cash on Delivery,Dhaka,5,2483.76
+ORD-051,2025-05-05,5,Electronics,18958.97,5,5.24,bKash,Dhaka,2,89827.58
+ORD-052,2025-07-24,7,Electronics,40460.12,5,17.55,Cash on Delivery,Rajshahi,6,166796.83
+ORD-053,2025-10-11,10,Home & Kitchen,10336.9,1,12.12,Nagad,Sylhet,7,9084.07
+ORD-054,2025-11-20,11,Home & Kitchen,4174.75,3,14.77,Nagad,Dhaka,3,10674.42
+ORD-055,2025-03-17,3,Home & Kitchen,12909.49,5,9.44,bKash,Sylhet,1,58454.18
+ORD-056,2025-09-03,9,Home & Kitchen,5742.05,3,30.53,Card,Rajshahi,6,11967.0
+ORD-057,2025-11-30,11,Fashion,5193.4,5,37.2,Cash on Delivery,Sylhet,7,16307.26
+ORD-058,2025-08-23,8,Grocery,817.46,5,19.92,Cash on Delivery,Khulna,4,3273.13
+ORD-059,2025-02-22,2,Electronics,27178.93,3,25.72,bKash,Khulna,5,60565.53
+ORD-060,2025-03-11,3,Electronics,18766.89,1,34.69,Cash on Delivery,Chattogram,2,12256.66
+ORD-061,2025-03-16,3,Home & Kitchen,4702.52,2,39.95,bKash,Khulna,1,5647.72
+ORD-062,2025-02-08,2,Grocery,2227.74,2,24.54,Cash on Delivery,Sylhet,7,3362.1
+ORD-063,2025-10-03,10,Grocery,550.22,3,35.59,bKash,Dhaka,4,1063.2
+ORD-064,2025-12-19,12,Home & Kitchen,2004.32,3,36.34,bKash,Dhaka,2,3827.86
+ORD-065,2025-07-08,7,Grocery,920.62,3,31.66,Card,Dhaka,5,1887.46
+ORD-066,2025-08-07,8,Grocery,1822.33,1,18.44,Cash on Delivery,Barishal,1,1486.3
+ORD-067,2025-10-10,10,Grocery,2037.84,2,3.25,Card,Chattogram,1,3943.21
+ORD-068,2025-06-01,6,Fashion,5993.09,4,0.63,bKash,Khulna,2,23821.33
+ORD-069,2025-06-22,6,Electronics,14391.75,1,19.09,Cash on Delivery,Sylhet,4,11644.36
+ORD-070,2025-08-03,8,Fashion,2743.68,2,19.77,bKash,Barishal,3,4402.51
+ORD-071,2025-04-22,4,Electronics,7451.73,5,16.29,bKash,Dhaka,2,31189.2
+ORD-072,2025-01-23,1,Fashion,3661.8,1,22.73,Cash on Delivery,Rajshahi,3,2829.47
+ORD-073,2025-07-27,7,Beauty,3991.05,3,22.09,bKash,Sylhet,3,9328.27
+ORD-074,2025-10-28,10,Electronics,31988.32,2,33.46,Cash on Delivery,Dhaka,4,42570.06
+ORD-075,2025-01-27,1,Electronics,27391.76,1,4.35,Cash on Delivery,Rajshahi,4,26200.22
+ORD-076,2025-03-21,3,Fashion,2658.03,3,9.01,bKash,Dhaka,7,7255.62
+ORD-077,2025-04-06,4,Fashion,5534.14,3,31.72,bKash,Khulna,6,11336.14
+ORD-078,2025-10-21,10,Home & Kitchen,7856.22,1,33.91,Card,Chattogram,3,5192.17
+ORD-079,2025-07-04,7,Grocery,422.48,1,39.79,Cash on Delivery,Dhaka,7,254.38
+ORD-080,2025-07-15,7,Home & Kitchen,5988.37,1,34.92,Card,Dhaka,4,3897.23
+ORD-081,2025-08-24,8,Home & Kitchen,1753.77,4,35.6,Nagad,Dhaka,2,4517.7
+ORD-082,2025-04-11,4,Fashion,1610.88,5,12.57,Card,Dhaka,3,7041.98
+ORD-083,2025-09-18,9,Beauty,365.37,1,16.07,Card,Khulna,6,306.66
+ORD-084,2025-01-12,1,Electronics,21217.68,2,10.72,Cash on Delivery,Dhaka,6,37886.28
+ORD-085,2025-02-11,2,Electronics,29102.5,2,24.25,bKash,Dhaka,3,44090.29
+ORD-086,2025-10-25,10,Electronics,16433.22,2,37.55,Cash on Delivery,Khulna,2,20525.09
+ORD-087,2025-08-29,8,Home & Kitchen,6769.42,2,13.79,Nagad,Khulna,2,11671.84
+ORD-088,2025-03-06,3,Grocery,2402.1,1,22.28,bKash,Chattogram,1,1866.91
+ORD-089,2025-06-10,6,Electronics,34210.4,3,11.85,Cash on Delivery,Barishal,5,90469.39
+ORD-090,2025-01-19,1,Grocery,1398.06,2,6.79,Card,Dhaka,4,2606.26
+ORD-091,2025-09-03,9,Electronics,13877.53,2,7.81,Cash on Delivery,Sylhet,4,25587.39
+ORD-092,2025-10-03,10,Home & Kitchen,13537.35,2,2.32,bKash,Dhaka,5,26446.58
+ORD-093,2025-04-12,4,Fashion,1793.03,5,37.97,Nagad,Rajshahi,6,5561.1
+ORD-094,2025-05-08,5,Fashion,2289.39,4,16.12,Cash on Delivery,Barishal,6,7681.34
+ORD-095,2025-03-28,3,Fashion,5499.86,3,33.36,bKash,Sylhet,1,10995.31
+ORD-096,2025-05-23,5,Grocery,1370.9,2,27.25,Nagad,Chattogram,5,1994.66
+ORD-097,2025-04-10,4,Fashion,4582.75,5,7.68,Cash on Delivery,Khulna,7,21153.97
+ORD-098,2025-04-01,4,Electronics,27197.4,5,7.02,bKash,Dhaka,6,126440.71
+ORD-099,2025-06-07,6,Electronics,29924.61,1,32.48,Cash on Delivery,Khulna,3,20205.09
+ORD-100,2025-11-10,11,Sports,4083.03,5,10.59,bKash,Rajshahi,3,18253.19
+ORD-101,2025-10-06,10,Sports,3427.5,4,36.53,Cash on Delivery,Barishal,7,8701.75
+ORD-102,2025-04-19,4,Home & Kitchen,5379.39,1,5.6,Card,Chattogram,1,5078.15
+ORD-103,2025-12-11,12,Fashion,1354.93,4,27.11,Card,Dhaka,4,3950.43
+ORD-104,2025-03-18,3,Sports,10579.75,1,32.58,Cash on Delivery,Chattogram,1,7132.87
+ORD-105,2025-11-29,11,Home & Kitchen,4822.11,1,9.41,Cash on Delivery,Dhaka,7,4368.35
+ORD-106,2025-04-23,4,Home & Kitchen,8773.15,1,11.05,bKash,Dhaka,1,7803.72
+ORD-107,2025-07-17,7,Fashion,4855.86,3,38.58,Nagad,Dhaka,1,8947.41
+ORD-108,2025-03-16,3,Fashion,4811.03,4,10.58,bKash,Rajshahi,3,17208.1
+ORD-109,2025-10-06,10,Electronics,20569.8,3,17.2,Cash on Delivery,Dhaka,2,51095.39
+ORD-110,2025-04-26,4,Sports,6081.71,1,17.3,Cash on Delivery,Dhaka,4,5029.57
+ORD-111,2025-11-15,11,Fashion,5970.86,1,10.12,Card,Dhaka,3,5366.61
+ORD-112,2025-01-31,1,Electronics,30844.99,5,31.03,bKash,Sylhet,3,106368.95
+ORD-113,2025-07-03,7,Fashion,4980.51,5,30.87,Card,Khulna,4,17215.14
+ORD-114,2025-02-27,2,Grocery,2266.13,4,15.13,bKash,Dhaka,4,7693.06
+ORD-115,2025-11-21,11,Electronics,35760.16,1,33.41,Card,Dhaka,7,23812.69
+ORD-116,2025-06-02,6,Beauty,985.16,5,8.52,Cash on Delivery,Chattogram,4,4506.14
+ORD-117,2025-09-04,9,Home & Kitchen,8782.82,4,0.17,Cash on Delivery,Dhaka,4,35071.57
+ORD-118,2025-11-18,11,Home & Kitchen,2246.9,3,22.85,Card,Chattogram,5,5200.44
+ORD-119,2025-07-15,7,Fashion,4091.07,1,39.76,Card,Chattogram,2,2464.46
+ORD-120,2025-01-21,1,Grocery,2392.84,5,1.55,Cash on Delivery,Barishal,5,11778.75
+ORD-121,2025-03-22,3,Grocery,1330.56,3,8.32,Cash on Delivery,Dhaka,7,3659.56
+ORD-122,2025-03-19,3,Grocery,1139.13,1,20.76,bKash,Khulna,3,902.65
+ORD-123,2025-11-30,11,Electronics,3059.16,2,32.4,bKash,Dhaka,2,4135.98
+ORD-124,2025-11-28,11,Fashion,5778.76,3,3.56,Cash on Delivery,Barishal,3,16719.11
+ORD-125,2025-06-24,6,Electronics,5980.62,1,15.81,Card,Barishal,2,5035.08
+ORD-126,2025-11-21,11,Grocery,198.59,2,29.88,Cash on Delivery,Rajshahi,5,278.5
+ORD-127,2025-03-31,3,Fashion,1853.37,3,14.86,Nagad,Chattogram,7,4733.87
+ORD-128,2025-09-05,9,Electronics,4350.57,5,7.55,Cash on Delivery,Dhaka,5,20110.53
+ORD-129,2025-05-24,5,Electronics,21297.63,1,7.82,Cash on Delivery,Rajshahi,1,19632.15
+ORD-130,2025-03-29,3,Grocery,1338.61,3,16.4,bKash,Rajshahi,3,3357.24
+ORD-131,2025-04-02,4,Electronics,15096.79,5,19.18,Cash on Delivery,Dhaka,5,61006.14
+ORD-132,2025-06-03,6,Sports,1275.85,5,34.47,bKash,Chattogram,3,4180.33
+ORD-133,2025-05-04,5,Grocery,367.84,5,25.69,Cash on Delivery,Chattogram,5,1366.71
+ORD-134,2025-03-19,3,Fashion,2614.77,1,27.62,Card,Sylhet,5,1892.57
+ORD-135,2025-05-02,5,Grocery,245.27,5,39.32,Nagad,Khulna,3,744.14
+ORD-136,2025-02-16,2,Electronics,31871.25,5,16.47,Card,Khulna,5,133110.29
+ORD-137,2025-12-20,12,Sports,3039.33,2,16.13,Cash on Delivery,Khulna,3,5098.18
+ORD-138,2025-05-19,5,Grocery,824.97,3,36.93,Cash on Delivery,Dhaka,1,1560.93
+ORD-139,2025-02-09,2,Home & Kitchen,6396.59,3,9.84,Cash on Delivery,Dhaka,3,17301.49
+ORD-140,2025-07-30,7,Electronics,19622.52,3,29.19,bKash,Dhaka,4,41684.12
+ORD-141,2025-11-19,11,Grocery,103.99,2,30.18,Cash on Delivery,Rajshahi,1,145.21
+ORD-142,2025-05-12,5,Grocery,368.97,5,3.91,Cash on Delivery,Chattogram,7,1772.71
+ORD-143,2025-11-05,11,Sports,10449.24,5,18.73,Cash on Delivery,Chattogram,4,42460.48
+ORD-144,2025-08-11,8,Grocery,102.96,2,8.02,Cash on Delivery,Dhaka,1,189.4
+ORD-145,2025-09-27,9,Grocery,1319.6,5,7.42,bKash,Dhaka,7,6108.44
+ORD-146,2025-04-19,4,Fashion,3192.26,2,18.55,Cash on Delivery,Chattogram,6,5200.19
+ORD-147,2025-01-14,1,Fashion,2332.02,4,11.58,Cash on Delivery,Dhaka,1,8247.88
+ORD-148,2025-05-07,5,Grocery,1135.18,3,31.84,bKash,Dhaka,2,2321.23
+ORD-149,2025-12-04,12,Fashion,4793.2,3,36.3,bKash,Rajshahi,3,9159.8
+ORD-150,2025-10-16,10,Electronics,38092.36,1,32.11,Cash on Delivery,Dhaka,4,25860.9
+ORD-151,2025-10-14,10,Beauty,1263.29,4,10.64,bKash,Dhaka,6,4515.5
+ORD-152,2025-11-17,11,Beauty,1493.21,2,10.97,Nagad,Chattogram,3,2658.82
+ORD-153,2025-05-17,5,Electronics,12048.0,2,10.19,Cash on Delivery,Rajshahi,5,21640.62
+ORD-154,2025-04-28,4,Grocery,1251.67,1,5.4,bKash,Dhaka,1,1184.08
+ORD-155,2025-12-04,12,Electronics,31221.74,5,37.75,Card,Rajshahi,5,97177.66
+ORD-156,2025-07-28,7,Home & Kitchen,4041.19,1,16.08,bKash,Barishal,7,3391.37
+ORD-157,2025-04-19,4,Fashion,2319.05,4,8.99,Card,Khulna,4,8442.26
+ORD-158,2025-04-12,4,Grocery,2332.92,5,33.87,Nagad,Chattogram,4,7713.81
+ORD-159,2025-11-17,11,Home & Kitchen,1489.68,1,15.97,Cash on Delivery,Rajshahi,3,1251.78
+ORD-160,2025-01-20,1,Home & Kitchen,7342.93,3,1.4,bKash,Chattogram,7,21720.38
+ORD-161,2025-01-23,1,Electronics,32452.77,3,6.48,Nagad,Dhaka,1,91049.51
+ORD-162,2025-09-27,9,Sports,2400.13,2,25.57,Card,Chattogram,3,3572.83
+ORD-163,2025-01-01,1,Electronics,3560.77,4,31.32,bKash,Dhaka,1,9782.15
+ORD-164,2025-03-04,3,Electronics,7511.93,3,8.44,Cash on Delivery,Dhaka,7,20633.78
+ORD-165,2025-12-28,12,Grocery,2305.18,3,36.7,bKash,Dhaka,4,4377.53
+ORD-166,2025-06-05,6,Fashion,550.93,3,34.04,Cash on Delivery,Dhaka,7,1090.18
+ORD-167,2025-09-23,9,Beauty,996.79,5,33.94,Nagad,Dhaka,5,3292.4
+ORD-168,2025-06-27,6,Beauty,415.75,4,9.11,bKash,Chattogram,4,1511.5
+ORD-169,2025-02-03,2,Fashion,1108.46,2,2.02,Nagad,Barishal,4,2172.14
+ORD-170,2025-03-09,3,Sports,7707.69,5,34.7,Card,Dhaka,2,25165.6
+ORD-171,2025-10-05,10,Fashion,1829.01,5,12.23,bKash,Khulna,4,8026.63
+ORD-172,2025-02-04,2,Grocery,1466.11,5,24.76,bKash,Chattogram,5,5515.5
+ORD-173,2025-08-06,8,Fashion,3746.07,4,30.4,Nagad,Dhaka,7,10429.07
+ORD-174,2025-05-08,5,Sports,10298.62,2,5.13,Card,Dhaka,4,19540.6
+ORD-175,2025-05-16,5,Electronics,1706.25,4,31.23,Card,Dhaka,7,4693.55
+ORD-176,2025-12-14,12,Electronics,38621.57,2,37.54,Cash on Delivery,Dhaka,7,48246.07
+ORD-177,2025-08-10,8,Fashion,3905.15,2,29.13,bKash,Dhaka,4,5535.17
+ORD-178,2025-08-13,8,Sports,2539.0,3,17.65,Cash on Delivery,Dhaka,4,6272.6
+ORD-179,2025-05-08,5,Beauty,3159.87,5,35.07,Card,Chattogram,1,10258.51
+ORD-180,2025-05-20,5,Home & Kitchen,12947.98,3,21.1,bKash,Dhaka,2,30647.87
+ORD-181,2025-09-08,9,Beauty,1240.77,2,29.79,bKash,Dhaka,7,1742.3
+ORD-182,2025-01-15,1,Beauty,3699.54,3,32.82,Cash on Delivery,Dhaka,1,7456.05
+ORD-183,2025-03-28,3,Grocery,1190.7,2,29.97,Cash on Delivery,Chattogram,3,1667.69
+ORD-184,2025-08-08,8,Fashion,3818.83,4,11.51,Nagad,Dhaka,5,13517.15
+ORD-185,2025-08-16,8,Home & Kitchen,14782.02,2,4.71,Cash on Delivery,Chattogram,2,28171.58
+ORD-186,2025-02-03,2,Home & Kitchen,5933.81,3,9.53,Cash on Delivery,Dhaka,7,16104.96
+ORD-187,2025-10-15,10,Fashion,4972.38,2,20.11,Card,Dhaka,5,7944.86
+ORD-188,2025-07-18,7,Electronics,15350.36,2,20.21,Nagad,Barishal,1,24496.11
+ORD-189,2025-03-28,3,Home & Kitchen,12148.83,5,23.31,Cash on Delivery,Dhaka,2,46584.7
+ORD-190,2025-10-02,10,Fashion,3804.04,2,15.8,Cash on Delivery,Dhaka,6,6406.0
+ORD-191,2025-12-28,12,Sports,3144.82,1,31.48,Card,Dhaka,7,2154.83
+ORD-192,2025-06-04,6,Fashion,2777.14,2,36.53,Nagad,Barishal,7,3525.31
+ORD-193,2025-04-14,4,Electronics,15317.15,3,9.87,bKash,Khulna,6,41416.04
+ORD-194,2025-04-20,4,Beauty,589.0,1,29.46,Cash on Delivery,Khulna,1,415.48
+ORD-195,2025-08-05,8,Electronics,2797.81,2,27.12,Cash on Delivery,Barishal,6,4078.09
+ORD-196,2025-01-18,1,Electronics,16571.82,1,20.92,Cash on Delivery,Dhaka,1,13105.0
+ORD-197,2025-06-26,6,Grocery,145.68,3,7.54,Nagad,Barishal,1,404.09
+ORD-198,2025-01-10,1,Beauty,912.3,4,31.81,Cash on Delivery,Dhaka,5,2488.4
+ORD-199,2025-01-15,1,Electronics,33045.47,5,38.43,Cash on Delivery,Khulna,4,101730.49
+ORD-200,2025-06-06,6,Fashion,4394.5,2,28.87,Nagad,Chattogram,5,6251.62
+ORD-201,2025-09-30,9,Home & Kitchen,11287.84,5,36.71,Card,Dhaka,6,35720.37
+ORD-202,2025-11-19,11,Sports,4283.83,2,39.37,Nagad,Barishal,1,5194.57
+ORD-203,2025-02-01,2,Grocery,2236.05,4,14.08,bKash,Dhaka,4,7684.85
+ORD-204,2025-03-31,3,Electronics,27331.63,3,25.53,bKash,Barishal,6,61061.59
+ORD-205,2025-06-03,6,Electronics,6982.15,4,18.96,bKash,Dhaka,4,22633.32
+ORD-206,2025-07-29,7,Electronics,7751.76,4,39.47,Cash on Delivery,Khulna,4,18768.57
+ORD-207,2025-12-27,12,Electronics,31649.65,3,3.75,bKash,Barishal,4,91388.37
+ORD-208,2025-09-07,9,Home & Kitchen,3255.8,2,16.49,bKash,Dhaka,7,5437.84
+ORD-209,2025-07-16,7,Electronics,23567.23,3,35.02,bKash,Barishal,1,45941.96
+ORD-210,2025-01-23,1,Grocery,2480.26,5,11.36,Card,Chattogram,7,10992.51
+ORD-211,2025-01-30,1,Home & Kitchen,856.91,5,31.51,Card,Khulna,6,2934.48
+ORD-212,2025-02-25,2,Grocery,139.79,5,15.31,Cash on Delivery,Dhaka,6,591.95
+ORD-213,2025-08-30,8,Electronics,44699.18,1,39.2,bKash,Chattogram,3,27177.1
+ORD-214,2025-05-01,5,Beauty,2463.16,3,35.34,Cash on Delivery,Khulna,4,4778.04
+ORD-215,2025-03-29,3,Home & Kitchen,2602.12,1,12.05,Cash on Delivery,Chattogram,3,2288.57
+ORD-216,2025-09-02,9,Home & Kitchen,13541.69,4,30.81,Cash on Delivery,Dhaka,2,37477.98
+ORD-217,2025-10-25,10,Electronics,39796.54,5,13.47,Cash on Delivery,Dhaka,7,172179.74
+ORD-218,2025-06-10,6,Electronics,24824.72,1,24.25,Nagad,Sylhet,4,18804.72
+ORD-219,2025-11-18,11,Sports,7726.25,4,26.34,bKash,Dhaka,6,22764.62
+ORD-220,2025-09-25,9,Fashion,2002.53,5,33.18,Card,Khulna,1,6690.45
+ORD-221,2025-09-19,9,Fashion,777.86,5,0.98,Cash on Delivery,Barishal,6,3851.18
+ORD-222,2025-11-13,11,Grocery,1526.96,2,8.81,Cash on Delivery,Dhaka,5,2784.87
+ORD-223,2025-03-09,3,Home & Kitchen,4985.52,1,28.48,bKash,Dhaka,7,3565.65
+ORD-224,2025-10-04,10,Sports,8198.92,5,22.54,Cash on Delivery,Khulna,1,31754.41
+ORD-225,2025-12-16,12,Fashion,5099.35,5,19.82,Cash on Delivery,Dhaka,4,20443.29
+ORD-226,2025-12-29,12,Sports,905.21,3,2.21,Card,Chattogram,4,2655.63
+ORD-227,2025-07-30,7,Electronics,27413.55,5,13.93,Cash on Delivery,Khulna,4,117974.21
+ORD-228,2025-10-03,10,Grocery,655.07,1,34.6,Cash on Delivery,Chattogram,1,428.42
+ORD-229,2025-11-21,11,Grocery,2197.33,4,1.24,bKash,Dhaka,4,8680.34
+ORD-230,2025-11-08,11,Electronics,12534.41,1,15.86,bKash,Khulna,3,10546.45
+ORD-231,2025-11-24,11,Electronics,28068.5,5,37.81,bKash,Chattogram,5,87279.0
+ORD-232,2025-10-31,10,Fashion,3544.47,4,2.04,Cash on Delivery,Dhaka,2,13888.67
+ORD-233,2025-05-20,5,Sports,5176.68,5,29.99,Card,Chattogram,4,18120.97
+ORD-234,2025-09-24,9,Grocery,1726.29,3,10.3,Cash on Delivery,Sylhet,5,4645.45
+ORD-235,2025-05-30,5,Sports,8901.2,1,34.66,bKash,Khulna,1,5816.04
+ORD-236,2025-10-20,10,Beauty,2397.67,1,29.84,Nagad,Chattogram,6,1682.21
+ORD-237,2025-10-23,10,Grocery,1920.21,2,35.43,Card,Dhaka,6,2479.76
+ORD-238,2025-12-08,12,Home & Kitchen,14764.52,4,8.64,Cash on Delivery,Dhaka,1,53955.47
+ORD-239,2025-08-03,8,Electronics,19738.35,1,21.25,bKash,Dhaka,1,15543.95
+ORD-240,2025-06-23,6,Electronics,23884.36,5,31.17,Cash on Delivery,Dhaka,6,82198.03
+ORD-241,2025-03-02,3,Beauty,346.14,2,9.83,Cash on Delivery,Barishal,2,624.23
+ORD-242,2025-08-21,8,Home & Kitchen,12103.61,3,9.23,Cash on Delivery,Dhaka,7,32959.33
+ORD-243,2025-07-26,7,Electronics,24130.01,2,1.09,Nagad,Rajshahi,4,47733.98
+ORD-244,2025-07-07,7,Grocery,1079.11,3,38.34,Cash on Delivery,Dhaka,3,1996.13
+ORD-245,2025-09-04,9,Grocery,325.77,3,28.4,Nagad,Dhaka,2,699.76
+ORD-246,2025-11-07,11,Beauty,3591.73,1,25.42,Cash on Delivery,Dhaka,5,2678.71
+ORD-247,2025-02-24,2,Grocery,1048.02,3,29.76,Card,Dhaka,1,2208.38
+ORD-248,2025-06-07,6,Fashion,4254.2,4,21.26,Card,Rajshahi,3,13399.02
+ORD-249,2025-09-21,9,Fashion,1321.56,5,19.05,Cash on Delivery,Barishal,3,5349.01
+ORD-250,2025-10-27,10,Fashion,5788.52,2,17.98,Cash on Delivery,Sylhet,2,9495.49
+ORD-251,2025-10-12,10,Grocery,528.26,5,25.62,Cash on Delivery,Dhaka,3,1964.6
+ORD-252,2025-10-19,10,Beauty,1038.31,5,8.06,Card,Rajshahi,4,4773.09
+ORD-253,2025-11-09,11,Fashion,5224.41,5,35.52,Cash on Delivery,Dhaka,5,16843.48
+ORD-254,2025-12-18,12,Fashion,5519.21,2,32.47,bKash,Sylhet,1,7454.24
+ORD-255,2025-08-10,8,Electronics,10728.41,5,13.98,bKash,Chattogram,7,46142.9
+ORD-256,2025-04-01,4,Home & Kitchen,7471.17,3,23.14,Nagad,Dhaka,7,17227.03
+ORD-257,2025-07-25,7,Beauty,3013.93,1,5.64,bKash,Dhaka,5,2843.95
+ORD-258,2025-09-17,9,Electronics,39708.91,2,38.89,bKash,Dhaka,7,48532.23
+ORD-259,2025-02-06,2,Electronics,17988.79,4,36.12,Card,Dhaka,3,45964.96
+ORD-260,2025-10-04,10,Grocery,1340.85,1,36.88,Cash on Delivery,Sylhet,6,846.34
+ORD-261,2025-07-18,7,Electronics,33764.66,3,13.29,Card,Rajshahi,6,87832.02
+ORD-262,2025-12-08,12,Beauty,3005.2,4,6.77,Cash on Delivery,Barishal,4,11207.0
+ORD-263,2025-03-19,3,Fashion,4806.28,1,8.47,bKash,Dhaka,2,4399.19
+ORD-264,2025-11-28,11,Electronics,26292.12,3,3.6,Card,Chattogram,4,76036.81
+ORD-265,2025-06-13,6,Sports,1882.15,2,4.8,bKash,Dhaka,7,3583.61
+ORD-266,2025-07-29,7,Electronics,40822.84,3,2.85,Nagad,Chattogram,7,118978.16
+ORD-267,2025-08-29,8,Fashion,5260.65,2,39.59,Cash on Delivery,Dhaka,4,6355.92
+ORD-268,2025-07-31,7,Electronics,36217.24,5,2.96,bKash,Dhaka,2,175726.04
+ORD-269,2025-11-26,11,Electronics,5844.02,1,5.3,Cash on Delivery,Chattogram,6,5534.28
+ORD-270,2025-03-03,3,Electronics,10391.29,5,33.09,bKash,Dhaka,1,34764.05
+ORD-271,2025-09-24,9,Electronics,33846.62,4,23.21,bKash,Chattogram,2,103963.27
+ORD-272,2025-12-22,12,Electronics,2506.59,5,30.98,Cash on Delivery,Khulna,4,8650.26
+ORD-273,2025-03-22,3,Electronics,44096.27,5,25.24,Cash on Delivery,Dhaka,7,164831.86
+ORD-274,2025-04-04,4,Grocery,1005.15,1,35.29,Cash on Delivery,Barishal,3,650.43
+ORD-275,2025-06-23,6,Home & Kitchen,11014.24,5,25.54,Cash on Delivery,Chattogram,4,41006.01
+ORD-276,2025-09-22,9,Fashion,5381.64,3,20.89,Cash on Delivery,Rajshahi,3,12772.25
+ORD-277,2025-12-17,12,Fashion,2670.46,5,28.51,Card,Khulna,4,9545.57
+ORD-278,2025-10-18,10,Grocery,865.92,5,17.9,bKash,Rajshahi,1,3554.59
+ORD-279,2025-10-17,10,Beauty,2552.34,3,13.84,Cash on Delivery,Rajshahi,5,6597.29
+ORD-280,2025-06-11,6,Beauty,2449.66,2,18.71,Nagad,Sylhet,5,3982.66
+ORD-281,2025-08-24,8,Electronics,19297.59,1,6.79,Card,Khulna,3,17987.28
+ORD-282,2025-03-19,3,Electronics,27677.2,1,31.86,Cash on Delivery,Dhaka,2,18859.25
+ORD-283,2025-06-19,6,Electronics,42189.09,2,10.43,Cash on Delivery,Dhaka,6,75577.54
+ORD-284,2025-03-10,3,Fashion,3072.02,5,6.14,Cash on Delivery,Khulna,2,14417.0
+ORD-285,2025-01-10,1,Grocery,572.18,3,9.85,Cash on Delivery,Dhaka,1,1547.46
+ORD-286,2025-11-09,11,Fashion,2574.63,3,33.68,Nagad,Dhaka,1,5122.49
+ORD-287,2025-10-21,10,Electronics,18643.65,2,13.21,Card,Dhaka,7,32361.65
+ORD-288,2025-07-06,7,Fashion,1221.1,3,27.44,Cash on Delivery,Chattogram,3,2658.09
+ORD-289,2025-01-06,1,Grocery,490.89,4,34.26,Nagad,Dhaka,1,1290.85
+ORD-290,2025-02-02,2,Electronics,31278.45,5,3.11,Cash on Delivery,Khulna,7,151528.45
+ORD-291,2025-02-10,2,Beauty,1556.07,4,30.6,bKash,Rajshahi,2,4319.64
+ORD-292,2025-09-19,9,Electronics,43038.08,4,12.31,Nagad,Sylhet,3,150960.37
+ORD-293,2025-03-16,3,Sports,3452.64,5,8.66,Cash on Delivery,Dhaka,1,15768.22
+ORD-294,2025-04-02,4,Electronics,5803.22,3,27.56,Cash on Delivery,Chattogram,5,12611.55
+ORD-295,2025-11-11,11,Beauty,3087.97,5,36.39,bKash,Chattogram,5,9821.28
+ORD-296,2025-11-16,11,Sports,10655.71,2,11.8,Card,Chattogram,6,18796.67
+ORD-297,2025-10-06,10,Sports,3842.68,1,22.75,Cash on Delivery,Khulna,2,2968.47
+ORD-298,2025-04-23,4,Beauty,1047.73,3,11.59,Cash on Delivery,Dhaka,3,2778.88
+ORD-299,2025-07-31,7,Home & Kitchen,3437.88,1,22.17,Cash on Delivery,Barishal,7,2675.7
+ORD-300,2025-03-15,3,Grocery,1352.83,1,24.87,bKash,Dhaka,6,1016.38
+ORD-301,2025-11-10,11,Home & Kitchen,7451.52,5,24.41,bKash,Sylhet,1,28163.01
+ORD-302,2025-01-31,1,Electronics,12785.63,4,24.94,Nagad,Chattogram,5,38387.58
+ORD-303,2025-09-29,9,Grocery,208.42,2,5.4,Nagad,Dhaka,6,394.32
+ORD-304,2025-07-06,7,Grocery,1255.58,5,27.74,Card,Rajshahi,4,4536.41
+ORD-305,2025-10-04,10,Beauty,3849.53,1,26.99,Nagad,Dhaka,5,2810.54
+ORD-306,2025-06-14,6,Grocery,1666.05,2,27.3,Cash on Delivery,Rajshahi,1,2422.43
+ORD-307,2025-02-27,2,Fashion,3225.29,4,2.96,bKash,Chattogram,1,12519.27
+ORD-308,2025-10-02,10,Grocery,365.66,2,17.87,Cash on Delivery,Dhaka,1,600.63
+ORD-309,2025-08-19,8,Fashion,1888.4,4,16.36,Cash on Delivery,Dhaka,2,6317.83
+ORD-310,2025-06-19,6,Electronics,14322.67,5,3.47,Card,Rajshahi,7,69128.35
+ORD-311,2025-05-17,5,Grocery,1935.53,1,8.89,Nagad,Dhaka,5,1763.46
+ORD-312,2025-05-06,5,Fashion,5321.91,1,17.64,Card,Sylhet,6,4383.12
+ORD-313,2025-06-25,6,Electronics,40721.42,5,29.72,bKash,Rajshahi,3,143095.07
+ORD-314,2025-04-06,4,Fashion,5915.13,3,9.48,bKash,Khulna,7,16063.12
+ORD-315,2025-04-14,4,Fashion,5903.02,3,33.19,bKash,Dhaka,2,11831.42
+ORD-316,2025-04-12,4,Fashion,5741.5,3,21.83,Cash on Delivery,Khulna,7,13464.38
+ORD-317,2025-01-05,1,Fashion,895.02,3,30.42,Cash on Delivery,Barishal,1,1868.27
+ORD-318,2025-12-05,12,Home & Kitchen,2756.67,4,18.9,bKash,Dhaka,1,8942.63
+ORD-319,2025-03-28,3,Fashion,2174.57,3,19.97,Cash on Delivery,Dhaka,1,5220.92
+ORD-320,2025-03-02,3,Sports,6947.75,1,24.79,Card,Dhaka,6,5225.4
+ORD-321,2025-02-25,2,Sports,1795.85,4,37.12,Cash on Delivery,Dhaka,2,4516.92
+ORD-322,2025-12-27,12,Grocery,2129.91,4,19.67,Cash on Delivery,Rajshahi,4,6843.84
+ORD-323,2025-06-24,6,Fashion,3892.16,1,21.15,Nagad,Chattogram,4,3068.97
+ORD-324,2025-04-30,4,Grocery,1401.67,2,24.08,Cash on Delivery,Chattogram,6,2128.3
+ORD-325,2025-05-28,5,Beauty,911.65,4,29.5,Card,Dhaka,3,2570.86
+ORD-326,2025-02-02,2,Grocery,707.81,4,2.87,Nagad,Dhaka,1,2750.0
+ORD-327,2025-04-25,4,Beauty,893.15,1,20.63,Cash on Delivery,Dhaka,3,708.9
+ORD-328,2025-04-01,4,Grocery,2144.64,1,19.26,Nagad,Sylhet,3,1731.58
+ORD-329,2025-10-21,10,Grocery,1502.15,3,36.87,bKash,Khulna,6,2844.92
+ORD-330,2025-01-22,1,Fashion,4543.21,3,19.74,Nagad,Dhaka,6,10939.15
+ORD-331,2025-06-05,6,Home & Kitchen,5003.67,5,18.73,Card,Rajshahi,1,20332.4
+ORD-332,2025-10-16,10,Electronics,17649.49,3,38.49,Nagad,Dhaka,6,32568.6
+ORD-333,2025-11-01,11,Home & Kitchen,6548.94,5,18.02,bKash,Dhaka,1,26844.11
+ORD-334,2025-07-07,7,Beauty,3112.06,2,7.24,Cash on Delivery,Dhaka,5,5773.49
+ORD-335,2025-03-23,3,Electronics,35097.35,3,8.68,Nagad,Barishal,3,96152.71
+ORD-336,2025-05-04,5,Grocery,596.35,1,3.81,Card,Khulna,3,573.63
+ORD-337,2025-03-23,3,Electronics,42456.94,3,0.02,bKash,Khulna,4,127345.35
+ORD-338,2025-08-30,8,Home & Kitchen,2513.31,1,17.28,bKash,Dhaka,3,2079.01
+ORD-339,2025-04-17,4,Electronics,40481.31,3,30.77,bKash,Dhaka,6,84075.63
+ORD-340,2025-08-19,8,Sports,1834.47,2,29.34,Nagad,Khulna,7,2592.47
+ORD-341,2025-08-28,8,Electronics,13007.48,1,1.29,Card,Dhaka,6,12839.69
+ORD-342,2025-12-10,12,Sports,10265.21,1,22.8,Cash on Delivery,Barishal,4,7924.74
+ORD-343,2025-05-16,5,Beauty,964.12,3,6.17,Cash on Delivery,Rajshahi,4,2713.9
+ORD-344,2025-12-17,12,Grocery,1092.56,5,37.64,bKash,Chattogram,4,3406.61
+ORD-345,2025-05-27,5,Home & Kitchen,7188.0,1,6.69,bKash,Rajshahi,6,6707.12
+ORD-346,2025-09-06,9,Home & Kitchen,4282.68,3,25.07,bKash,Barishal,4,9627.03
+ORD-347,2025-08-30,8,Sports,8725.77,2,13.05,Cash on Delivery,Chattogram,4,15174.12
+ORD-348,2025-10-26,10,Fashion,5182.34,5,25.66,bKash,Khulna,3,19262.76
+ORD-349,2025-06-21,6,Grocery,2198.98,3,16.49,bKash,Sylhet,3,5509.11
+ORD-350,2025-10-17,10,Electronics,16260.51,5,30.39,bKash,Dhaka,4,56594.72
+ORD-351,2025-05-10,5,Grocery,1374.04,2,9.23,bKash,Sylhet,5,2494.43
+ORD-352,2025-06-29,6,Electronics,12305.68,1,36.23,Nagad,Dhaka,4,7847.33
+ORD-353,2025-07-02,7,Grocery,687.51,3,20.01,bKash,Khulna,6,1649.82
+ORD-354,2025-09-15,9,Grocery,487.01,4,30.24,Nagad,Rajshahi,6,1358.95
+ORD-355,2025-08-14,8,Grocery,2356.05,5,33.99,bKash,Khulna,4,7776.13
+ORD-356,2025-01-29,1,Grocery,2231.17,5,39.95,bKash,Chattogram,7,6699.1
+ORD-357,2025-10-23,10,Home & Kitchen,11838.49,5,8.96,bKash,Khulna,2,53888.82
+ORD-358,2025-10-04,10,Home & Kitchen,8150.79,4,11.48,Cash on Delivery,Dhaka,7,28860.33
+ORD-359,2025-02-08,2,Grocery,1277.46,2,10.02,Cash on Delivery,Dhaka,3,2298.92
+ORD-360,2025-12-18,12,Grocery,1371.39,3,10.51,bKash,Dhaka,4,3681.77
+ORD-361,2025-08-30,8,Sports,6763.22,1,23.3,Card,Chattogram,2,5187.39
+ORD-362,2025-02-01,2,Electronics,20403.49,3,39.74,bKash,Chattogram,4,36885.44
+ORD-363,2025-06-29,6,Electronics,7231.34,2,39.61,Cash on Delivery,Dhaka,3,8734.01
+ORD-364,2025-11-02,11,Electronics,6966.38,1,21.07,bKash,Sylhet,5,5498.56
+ORD-365,2025-04-13,4,Grocery,2385.4,2,25.56,Cash on Delivery,Dhaka,1,3551.38
+ORD-366,2025-12-07,12,Fashion,3151.17,3,34.4,Nagad,Chattogram,6,6201.5
+ORD-367,2025-06-02,6,Home & Kitchen,14335.52,2,37.32,Card,Dhaka,7,17971.01
+ORD-368,2025-03-24,3,Home & Kitchen,3122.79,5,8.15,bKash,Dhaka,4,14341.42
+ORD-369,2025-05-11,5,Fashion,3549.29,3,21.14,bKash,Rajshahi,4,8396.91
+ORD-370,2025-07-11,7,Beauty,1068.55,5,33.31,Cash on Delivery,Chattogram,5,3563.09
+ORD-371,2025-09-09,9,Home & Kitchen,4395.22,4,12.13,bKash,Dhaka,2,15448.32
+ORD-372,2025-12-05,12,Fashion,665.3,1,17.59,Card,Barishal,6,548.27
+ORD-373,2025-03-13,3,Fashion,1154.24,2,39.42,Nagad,Rajshahi,2,1398.48
+ORD-374,2025-12-17,12,Fashion,5542.67,4,39.4,bKash,Rajshahi,5,13435.42
+ORD-375,2025-07-12,7,Electronics,15486.69,3,36.24,Cash on Delivery,Sylhet,3,29622.93
+ORD-376,2025-02-16,2,Electronics,27953.62,2,31.94,Cash on Delivery,Sylhet,6,38050.47
+ORD-377,2025-12-05,12,Sports,5954.66,3,10.77,Cash on Delivery,Dhaka,6,15940.03
+ORD-378,2025-05-08,5,Fashion,2702.48,5,12.83,Cash on Delivery,Khulna,2,11778.77
+ORD-379,2025-08-15,8,Fashion,3425.37,2,21.89,Cash on Delivery,Khulna,5,5351.12
+ORD-380,2025-09-12,9,Home & Kitchen,3458.79,1,22.43,Card,Dhaka,4,2682.99
+ORD-381,2025-01-05,1,Grocery,2472.65,2,20.22,bKash,Dhaka,3,3945.36
+ORD-382,2025-03-22,3,Sports,9946.88,5,25.47,Cash on Delivery,Dhaka,5,37067.04
+ORD-383,2025-09-08,9,Home & Kitchen,11330.93,4,16.33,Cash on Delivery,Khulna,7,37922.35
+ORD-384,2025-04-29,4,Grocery,1225.02,5,29.97,Cash on Delivery,Rajshahi,1,4289.42
+ORD-385,2025-01-04,1,Fashion,1340.82,5,13.34,Nagad,Rajshahi,7,5809.79
+ORD-386,2025-01-09,1,Sports,11103.52,1,13.23,bKash,Dhaka,6,9634.53
+ORD-387,2025-10-29,10,Home & Kitchen,5647.7,2,5.09,Nagad,Dhaka,4,10720.46
+ORD-388,2025-02-26,2,Sports,1266.21,1,7.55,Nagad,Chattogram,5,1170.61
+ORD-389,2025-02-06,2,Electronics,16394.56,1,34.02,Cash on Delivery,Chattogram,3,10817.13
+ORD-390,2025-07-25,7,Beauty,3239.49,5,17.85,bKash,Sylhet,1,13306.21
+ORD-391,2025-02-13,2,Grocery,1594.5,5,9.11,Card,Sylhet,5,7246.21
+ORD-392,2025-08-27,8,Electronics,34161.48,1,30.37,bKash,Sylhet,6,23786.64
+ORD-393,2025-07-18,7,Grocery,2004.72,4,22.16,Cash on Delivery,Sylhet,2,6241.91
+ORD-394,2025-08-25,8,Home & Kitchen,3809.76,3,0.85,Card,Barishal,6,11332.12
+ORD-395,2025-06-29,6,Electronics,41684.57,1,12.65,Card,Chattogram,6,36411.48
+ORD-396,2025-10-12,10,Fashion,2908.94,5,7.08,bKash,Dhaka,6,13514.95
+ORD-397,2025-08-24,8,Beauty,2664.35,5,26.23,bKash,Dhaka,3,9827.46
+ORD-398,2025-06-01,6,Fashion,512.7,3,11.0,Cash on Delivery,Dhaka,3,1368.9
+ORD-399,2025-01-06,1,Fashion,5963.53,4,2.6,Nagad,Dhaka,3,23233.9
+ORD-400,2025-04-10,4,Fashion,2044.93,2,2.2,bKash,Dhaka,6,3999.88
+ORD-401,2025-02-17,2,Fashion,841.35,4,23.27,Cash on Delivery,Barishal,7,2582.26
+ORD-402,2025-01-06,1,Sports,5878.36,3,0.87,Nagad,Dhaka,3,17481.66
+ORD-403,2025-04-10,4,Home & Kitchen,2632.23,5,33.95,Card,Barishal,7,8692.93
+ORD-404,2025-03-17,3,Electronics,8126.21,1,6.22,Card,Rajshahi,4,7620.76
+ORD-405,2025-01-29,1,Sports,7844.8,1,24.26,Cash on Delivery,Khulna,3,5941.65
+ORD-406,2025-04-25,4,Beauty,1753.83,5,17.79,Cash on Delivery,Khulna,1,7209.12
+ORD-407,2025-07-04,7,Fashion,5570.19,2,17.71,Card,Dhaka,5,9167.42
+ORD-408,2025-03-07,3,Beauty,1480.88,2,2.87,Card,Khulna,5,2876.76
+ORD-409,2025-04-10,4,Electronics,33088.84,4,32.11,bKash,Dhaka,7,89856.04
+ORD-410,2025-01-08,1,Sports,5910.42,1,35.72,bKash,Barishal,6,3799.22
+ORD-411,2025-01-19,1,Home & Kitchen,10171.31,3,0.44,bKash,Dhaka,1,30379.66
+ORD-412,2025-02-27,2,Grocery,1539.27,2,7.14,bKash,Dhaka,4,2858.73
+ORD-413,2025-06-15,6,Electronics,22066.1,1,36.16,Cash on Delivery,Rajshahi,6,14087.0
+ORD-414,2025-09-01,9,Beauty,3815.23,5,21.98,Cash on Delivery,Khulna,4,14883.2
+ORD-415,2025-10-15,10,Electronics,16408.04,1,6.0,Cash on Delivery,Chattogram,4,15423.56
+ORD-416,2025-08-18,8,Fashion,1474.8,1,8.11,Card,Khulna,6,1355.19
+ORD-417,2025-08-14,8,Electronics,30997.09,4,26.4,Cash on Delivery,Dhaka,5,91255.44
+ORD-418,2025-12-08,12,Home & Kitchen,12813.31,5,28.99,Cash on Delivery,Khulna,5,45493.65
+ORD-419,2025-04-04,4,Electronics,3251.04,1,23.98,bKash,Dhaka,4,2471.44
+ORD-420,2025-10-19,10,Sports,5780.85,4,38.13,Cash on Delivery,Dhaka,2,14306.45
+ORD-421,2025-12-08,12,Grocery,2241.97,3,19.76,Cash on Delivery,Dhaka,4,5396.87
+ORD-422,2025-07-27,7,Electronics,34108.41,5,12.01,bKash,Dhaka,7,150059.95
+ORD-423,2025-11-03,11,Electronics,44643.64,1,19.09,Cash on Delivery,Dhaka,5,36121.17
+ORD-424,2025-02-20,2,Electronics,24616.5,5,14.39,bKash,Chattogram,5,105370.93
+ORD-425,2025-11-17,11,Grocery,1683.99,4,8.98,Card,Dhaka,1,6131.07
+ORD-426,2025-07-25,7,Beauty,1419.18,5,1.84,Cash on Delivery,Dhaka,7,6965.32
+ORD-427,2025-03-22,3,Electronics,42717.8,2,14.09,Card,Chattogram,2,73397.72
+ORD-428,2025-01-23,1,Beauty,1655.44,5,28.46,Card,Dhaka,7,5921.51
+ORD-429,2025-09-20,9,Electronics,33625.22,4,0.74,Card,Khulna,4,133505.56
+ORD-430,2025-06-07,6,Beauty,1791.62,1,17.57,bKash,Barishal,7,1476.83
+ORD-431,2025-04-24,4,Sports,7048.55,5,25.76,bKash,Chattogram,7,26164.23
+ORD-432,2025-05-23,5,Home & Kitchen,11020.91,4,24.42,bKash,Sylhet,6,33318.42
+ORD-433,2025-12-28,12,Home & Kitchen,8026.86,2,31.07,Nagad,Dhaka,7,11065.84
+ORD-434,2025-06-06,6,Beauty,3656.22,3,32.42,Cash on Delivery,Dhaka,5,7412.62
+ORD-435,2025-01-29,1,Electronics,19739.59,2,28.47,Card,Rajshahi,6,28239.46
+ORD-436,2025-04-13,4,Electronics,29647.62,3,4.11,bKash,Rajshahi,2,85287.32
+ORD-437,2025-02-23,2,Electronics,16392.77,5,19.0,Nagad,Sylhet,1,66390.7
+ORD-438,2025-09-08,9,Grocery,1079.58,5,24.14,Cash on Delivery,Dhaka,4,4094.83
+ORD-439,2025-10-20,10,Home & Kitchen,7048.71,2,9.82,Cash on Delivery,Rajshahi,6,12713.06
+ORD-440,2025-11-03,11,Grocery,401.94,5,1.7,bKash,Dhaka,6,1975.52
+ORD-441,2025-08-20,8,Beauty,639.38,3,8.94,bKash,Dhaka,4,1746.65
+ORD-442,2025-10-08,10,Electronics,30535.81,4,18.2,bKash,Dhaka,4,99913.18
+ORD-443,2025-06-02,6,Home & Kitchen,10108.35,4,16.56,Cash on Delivery,Barishal,5,33737.64
+ORD-444,2025-08-18,8,Electronics,30336.57,3,7.07,Cash on Delivery,Dhaka,7,84575.33
+ORD-445,2025-02-09,2,Fashion,608.72,3,32.98,bKash,Sylhet,6,1223.88
+ORD-446,2025-07-16,7,Home & Kitchen,5436.97,3,37.03,Cash on Delivery,Khulna,1,10270.97
+ORD-447,2025-07-23,7,Sports,2935.25,5,8.05,Card,Rajshahi,5,13494.82
+ORD-448,2025-01-12,1,Grocery,1967.56,2,37.18,Cash on Delivery,Rajshahi,3,2472.05
+ORD-449,2025-07-20,7,Electronics,38937.42,2,0.71,Cash on Delivery,Sylhet,6,77321.93
+ORD-450,2025-09-21,9,Grocery,692.03,2,37.0,Cash on Delivery,Dhaka,4,871.96
+ORD-451,2025-05-15,5,Electronics,30551.44,1,38.08,bKash,Dhaka,7,18917.45
+ORD-452,2025-07-18,7,Beauty,778.64,2,0.48,bKash,Chattogram,4,1549.81
+ORD-453,2025-04-15,4,Home & Kitchen,4707.17,1,30.52,bKash,Dhaka,5,3270.54
+ORD-454,2025-04-09,4,Electronics,7531.47,1,38.81,Card,Dhaka,1,4608.51
+ORD-455,2025-02-17,2,Electronics,13833.15,4,36.24,Cash on Delivery,Dhaka,7,35280.07
+ORD-456,2025-04-30,4,Electronics,30851.04,1,38.83,Nagad,Dhaka,2,18871.58
+ORD-457,2025-10-21,10,Sports,10986.69,3,22.01,Cash on Delivery,Dhaka,3,25705.57
+ORD-458,2025-12-08,12,Fashion,1613.87,4,3.13,Cash on Delivery,Dhaka,6,6253.44
+ORD-459,2025-08-21,8,Home & Kitchen,8497.52,4,33.99,bKash,Sylhet,7,22436.86
+ORD-460,2025-08-16,8,Grocery,1783.34,3,24.55,Cash on Delivery,Dhaka,4,4036.59
+ORD-461,2025-08-13,8,Grocery,2387.01,1,24.59,bKash,Barishal,4,1800.05
+ORD-462,2025-06-23,6,Electronics,28037.63,5,16.69,bKash,Barishal,1,116790.75
+ORD-463,2025-06-04,6,Sports,3582.71,5,22.87,Nagad,Dhaka,7,13816.71
+ORD-464,2025-08-15,8,Fashion,3940.13,4,6.14,bKash,Rajshahi,1,14792.82
+ORD-465,2025-10-14,10,Grocery,869.18,1,29.59,bKash,Khulna,1,611.99
+ORD-466,2025-06-01,6,Home & Kitchen,14661.02,1,3.0,bKash,Khulna,4,14221.19
+ORD-467,2025-07-26,7,Grocery,1059.22,2,29.19,Cash on Delivery,Dhaka,1,1500.07
+ORD-468,2025-06-21,6,Sports,8445.33,1,33.96,Cash on Delivery,Dhaka,2,5577.3
+ORD-469,2025-04-15,4,Electronics,2510.4,5,18.9,bKash,Dhaka,5,10179.67
+ORD-470,2025-04-16,4,Grocery,1060.15,2,20.39,Card,Khulna,5,1687.97
+ORD-471,2025-01-29,1,Fashion,5313.09,2,12.49,Cash on Delivery,Barishal,3,9298.97
+ORD-472,2025-06-10,6,Grocery,1564.55,5,38.78,bKash,Khulna,6,4789.07
+ORD-473,2025-09-18,9,Electronics,20811.52,5,29.32,Nagad,Rajshahi,5,73547.9
+ORD-474,2025-09-08,9,Electronics,42213.28,2,14.76,Card,Barishal,2,71965.2
+ORD-475,2025-12-26,12,Fashion,5196.91,2,6.99,bKash,Khulna,5,9667.3
+ORD-476,2025-01-15,1,Fashion,2272.19,3,8.78,bKash,Dhaka,5,6218.06
+ORD-477,2025-10-05,10,Fashion,3495.02,4,18.56,Nagad,Sylhet,6,11385.36
+ORD-478,2025-10-18,10,Grocery,1275.58,5,37.7,Card,Dhaka,2,3973.43
+ORD-479,2025-06-09,6,Grocery,1617.29,5,29.37,Cash on Delivery,Dhaka,2,5711.45
+ORD-480,2025-04-14,4,Fashion,2337.61,5,8.61,Card,Chattogram,3,10681.72
+ORD-481,2025-05-11,5,Fashion,1843.13,1,34.38,Cash on Delivery,Barishal,3,1209.46
+ORD-482,2025-09-07,9,Electronics,41201.22,2,15.13,Card,Dhaka,7,69934.96
+ORD-483,2025-11-11,11,Grocery,2317.3,3,34.07,Cash on Delivery,Chattogram,6,4583.39
+ORD-484,2025-08-23,8,Fashion,5138.28,1,9.67,Cash on Delivery,Dhaka,4,4641.4
+ORD-485,2025-07-07,7,Electronics,44051.89,2,24.75,Cash on Delivery,Dhaka,4,66298.1
+ORD-486,2025-08-27,8,Fashion,4597.45,1,37.07,bKash,Dhaka,7,2893.18
+ORD-487,2025-01-26,1,Grocery,1935.2,5,10.32,Cash on Delivery,Rajshahi,4,8677.44
+ORD-488,2025-08-10,8,Electronics,34672.67,1,27.72,Cash on Delivery,Sylhet,2,25061.41
+ORD-489,2025-01-16,1,Grocery,1253.46,1,39.49,bKash,Dhaka,1,758.47
+ORD-490,2025-12-17,12,Grocery,1195.49,1,6.02,bKash,Dhaka,3,1123.52
+ORD-491,2025-11-21,11,Home & Kitchen,4211.21,1,3.54,Nagad,Dhaka,5,4062.14
+ORD-492,2025-07-05,7,Grocery,1647.57,3,26.97,Card,Dhaka,4,3609.65
+ORD-493,2025-05-17,5,Grocery,794.37,2,13.59,bKash,Chattogram,3,1372.83
+ORD-494,2025-09-25,9,Fashion,1917.95,5,2.85,Cash on Delivery,Khulna,4,9316.42
+ORD-495,2025-08-21,8,Home & Kitchen,9120.65,2,19.01,Cash on Delivery,Khulna,7,14773.63
+ORD-496,2025-09-15,9,Grocery,1083.96,3,30.15,Card,Dhaka,7,2271.43
+ORD-497,2025-07-08,7,Fashion,1703.71,4,11.4,Cash on Delivery,Chattogram,2,6037.95
+ORD-498,2025-03-28,3,Grocery,2058.53,4,13.4,bKash,Dhaka,1,7130.76
+ORD-499,2025-01-27,1,Fashion,5233.13,4,33.83,Card,Dhaka,2,13851.06
+ORD-500,2025-04-14,4,Grocery,502.48,2,20.8,Card,Barishal,6,795.93
+ORD-501,2025-07-13,7,Home & Kitchen,906.6,3,33.71,bKash,Rajshahi,4,1802.96
+ORD-502,2025-06-04,6,Beauty,1543.68,5,17.86,bKash,Barishal,7,6339.9
+ORD-503,2025-07-04,7,Sports,9711.87,5,38.12,bKash,Sylhet,5,30048.53
+ORD-504,2025-04-12,4,Grocery,2114.02,4,26.03,Nagad,Khulna,4,6254.95
+ORD-505,2025-12-09,12,Grocery,431.99,4,4.64,Cash on Delivery,Barishal,2,1647.78
+ORD-506,2025-05-14,5,Home & Kitchen,11795.57,5,35.4,Cash on Delivery,Dhaka,3,38099.69
+ORD-507,2025-11-05,11,Fashion,1136.37,4,19.57,bKash,Dhaka,2,3655.94
+ORD-508,2025-05-23,5,Beauty,1743.23,5,5.67,Cash on Delivery,Dhaka,4,8221.95
+ORD-509,2025-06-11,6,Grocery,2496.66,1,6.11,bKash,Dhaka,2,2344.12
+ORD-510,2025-08-09,8,Electronics,9877.7,2,27.5,Cash on Delivery,Dhaka,3,14322.67
+ORD-511,2025-04-07,4,Electronics,8197.42,1,1.89,Card,Dhaka,1,8042.48
+ORD-512,2025-03-22,3,Beauty,1864.36,1,11.46,Nagad,Khulna,6,1650.71
+ORD-513,2025-05-19,5,Electronics,28455.58,3,5.59,bKash,Rajshahi,7,80594.74
+ORD-514,2025-10-21,10,Fashion,5630.95,2,17.64,Nagad,Chattogram,4,9275.31
+ORD-515,2025-02-22,2,Fashion,5894.52,3,16.57,Cash on Delivery,Dhaka,4,14753.38
+ORD-516,2025-06-09,6,Electronics,4529.37,3,20.88,bKash,Rajshahi,7,10750.91
+ORD-517,2025-09-03,9,Fashion,1258.99,4,11.19,Cash on Delivery,Dhaka,4,4472.42
+ORD-518,2025-09-15,9,Home & Kitchen,12028.48,5,1.28,Card,Dhaka,5,59372.57
+ORD-519,2025-06-08,6,Electronics,13272.5,5,24.58,Card,Dhaka,3,50050.59
+ORD-520,2025-01-30,1,Beauty,3573.94,2,14.95,Card,Dhaka,4,6079.27
+ORD-521,2025-01-06,1,Beauty,2754.78,2,26.05,Card,Dhaka,4,4074.32
+ORD-522,2025-06-21,6,Fashion,1115.15,4,4.35,Card,Rajshahi,5,4266.55
+ORD-523,2025-10-23,10,Electronics,37715.02,1,0.55,Cash on Delivery,Rajshahi,5,37507.59
+ORD-524,2025-01-11,1,Grocery,523.26,3,9.93,Card,Khulna,4,1413.89
+ORD-525,2025-11-20,11,Electronics,19922.05,3,18.26,bKash,Dhaka,1,48852.85
+ORD-526,2025-09-04,9,Fashion,3537.02,1,15.76,bKash,Rajshahi,7,2979.58
+ORD-527,2025-01-03,1,Sports,6358.66,4,32.41,bKash,Khulna,7,17191.27
+ORD-528,2025-05-06,5,Sports,8453.64,2,15.11,Cash on Delivery,Dhaka,2,14352.59
+ORD-529,2025-03-22,3,Home & Kitchen,10068.15,1,21.22,Cash on Delivery,Khulna,3,7931.69
+ORD-530,2025-12-13,12,Fashion,5956.23,4,23.74,Cash on Delivery,Chattogram,7,18168.89
+ORD-531,2025-07-22,7,Home & Kitchen,14991.79,1,0.87,Cash on Delivery,Chattogram,3,14861.36
+ORD-532,2025-04-29,4,Home & Kitchen,8133.72,4,20.61,bKash,Dhaka,6,25829.45
+ORD-533,2025-04-12,4,Fashion,1023.59,1,13.79,Card,Chattogram,6,882.44
+ORD-534,2025-07-25,7,Grocery,1846.82,3,16.85,bKash,Dhaka,7,4606.9
+ORD-535,2025-01-02,1,Electronics,43984.89,5,4.01,bKash,Dhaka,1,211105.47
+ORD-536,2025-04-04,4,Electronics,15347.2,2,31.31,bKash,Dhaka,4,21083.98
+ORD-537,2025-03-02,3,Grocery,1206.9,4,37.7,bKash,Barishal,4,3007.6
+ORD-538,2025-08-15,8,Electronics,19977.8,4,0.89,Cash on Delivery,Dhaka,6,79199.98
+ORD-539,2025-09-02,9,Electronics,3736.73,5,24.05,Card,Dhaka,2,14190.24
+ORD-540,2025-06-20,6,Beauty,2787.38,1,30.55,Cash on Delivery,Dhaka,3,1935.83
+ORD-541,2025-02-21,2,Sports,4692.72,4,11.39,Nagad,Sylhet,2,16632.86
+ORD-542,2025-05-16,5,Grocery,1989.91,5,31.5,Nagad,Chattogram,6,6815.45
+ORD-543,2025-11-04,11,Beauty,3378.84,4,25.29,bKash,Sylhet,7,10097.34
+ORD-544,2025-03-16,3,Sports,9979.91,1,37.17,Card,Dhaka,1,6270.38
+ORD-545,2025-03-01,3,Electronics,19624.97,5,39.24,Cash on Delivery,Dhaka,2,59620.66
+ORD-546,2025-02-10,2,Fashion,2268.5,1,1.69,Card,Chattogram,3,2230.16
+ORD-547,2025-10-26,10,Fashion,4618.51,3,17.8,Nagad,Dhaka,7,11389.26
+ORD-548,2025-02-13,2,Electronics,36360.44,3,21.88,Nagad,Rajshahi,4,85214.33
+ORD-549,2025-08-01,8,Home & Kitchen,7775.86,3,5.87,bKash,Sylhet,2,21958.24
+ORD-550,2025-12-31,12,Fashion,5411.67,3,13.45,Card,Chattogram,3,14051.4
+ORD-551,2025-08-23,8,Grocery,445.38,1,39.51,Card,Barishal,5,269.41
+ORD-552,2025-05-31,5,Electronics,39739.49,3,0.65,bKash,Chattogram,3,118443.56
+ORD-553,2025-03-17,3,Electronics,5680.14,5,18.1,Nagad,Dhaka,1,23260.18
+ORD-554,2025-01-01,1,Sports,2434.84,3,33.71,Nagad,Chattogram,6,4842.16
+ORD-555,2025-02-26,2,Electronics,24722.04,2,12.96,bKash,Dhaka,3,43036.13
+ORD-556,2025-12-14,12,Electronics,4437.05,5,19.19,Card,Rajshahi,2,17927.92
+ORD-557,2025-02-22,2,Fashion,790.44,1,39.12,bKash,Dhaka,6,481.22
+ORD-558,2025-01-08,1,Grocery,101.24,3,19.0,bKash,Dhaka,6,246.03
+ORD-559,2025-10-25,10,Grocery,1147.16,3,5.24,Cash on Delivery,Chattogram,2,3261.15
+ORD-560,2025-06-02,6,Grocery,1959.1,3,2.07,Cash on Delivery,Dhaka,1,5755.63
+ORD-561,2025-05-11,5,Electronics,3015.47,5,37.82,Card,Dhaka,1,9375.09
+ORD-562,2025-09-19,9,Fashion,4087.42,3,10.63,bKash,Khulna,6,10958.77
+ORD-563,2025-07-10,7,Beauty,3345.57,5,20.16,bKash,Dhaka,5,13355.52
+ORD-564,2025-11-30,11,Grocery,503.2,1,3.63,Cash on Delivery,Chattogram,6,484.94
+ORD-565,2025-06-20,6,Grocery,452.47,4,16.95,bKash,Dhaka,5,1503.12
+ORD-566,2025-09-18,9,Home & Kitchen,13023.37,3,37.2,Nagad,Dhaka,3,24536.04
+ORD-567,2025-11-17,11,Home & Kitchen,12488.37,2,20.1,Card,Dhaka,5,19956.41
+ORD-568,2025-06-19,6,Electronics,24943.97,2,38.85,Cash on Delivery,Rajshahi,6,30506.47
+ORD-569,2025-04-14,4,Fashion,5005.6,4,10.35,bKash,Barishal,3,17950.08
+ORD-570,2025-12-22,12,Grocery,322.61,4,20.18,bKash,Dhaka,7,1030.04
+ORD-571,2025-03-24,3,Fashion,2669.65,4,34.38,bKash,Barishal,7,7007.29
+ORD-572,2025-01-15,1,Beauty,3029.85,1,17.93,bKash,Chattogram,6,2486.6
+ORD-573,2025-07-31,7,Grocery,717.88,3,11.18,bKash,Khulna,7,1912.88
+ORD-574,2025-12-27,12,Home & Kitchen,11483.07,5,34.22,bKash,Khulna,3,37767.82
+ORD-575,2025-02-01,2,Beauty,2165.46,1,15.6,bKash,Khulna,1,1827.65
+ORD-576,2025-11-07,11,Grocery,1900.64,3,21.23,bKash,Rajshahi,4,4491.4
+ORD-577,2025-10-31,10,Sports,5950.88,3,39.06,bKash,Chattogram,6,10879.4
+ORD-578,2025-12-06,12,Grocery,982.97,5,7.46,Nagad,Chattogram,6,4548.2
+ORD-579,2025-06-03,6,Beauty,1111.0,2,12.06,Nagad,Dhaka,3,1954.03
+ORD-580,2025-04-03,4,Fashion,1646.09,3,1.24,Cash on Delivery,Dhaka,3,4877.02
+ORD-581,2025-07-06,7,Grocery,1903.58,4,15.67,Nagad,Khulna,4,6421.15
+ORD-582,2025-02-21,2,Grocery,385.38,1,8.01,Card,Dhaka,6,354.52
+ORD-583,2025-11-04,11,Electronics,5240.23,5,27.2,Cash on Delivery,Dhaka,1,19074.45
+ORD-584,2025-08-31,8,Fashion,1469.6,5,7.25,bKash,Dhaka,3,6815.28
+ORD-585,2025-06-26,6,Sports,2681.42,4,26.99,Cash on Delivery,Dhaka,2,7830.81
+ORD-586,2025-07-08,7,Grocery,2075.46,4,10.54,Nagad,Khulna,6,7426.82
+ORD-587,2025-09-17,9,Electronics,18835.04,4,14.21,Cash on Delivery,Khulna,4,64634.32
+ORD-588,2025-07-10,7,Fashion,5947.14,4,13.95,bKash,Chattogram,1,20470.04
+ORD-589,2025-11-03,11,Electronics,7468.69,5,28.67,Cash on Delivery,Dhaka,2,26637.08
+ORD-590,2025-12-04,12,Electronics,29928.98,3,18.66,bKash,Chattogram,1,73032.7
+ORD-591,2025-12-13,12,Sports,5770.64,3,14.45,Card,Dhaka,4,14810.36
+ORD-592,2025-08-15,8,Fashion,2661.05,4,34.1,bKash,Rajshahi,7,7014.53
+ORD-593,2025-09-29,9,Fashion,5312.96,1,22.88,Card,Chattogram,4,4097.36
+ORD-594,2025-04-24,4,Grocery,2441.43,5,8.55,Card,Chattogram,7,11163.44
+ORD-595,2025-01-14,1,Electronics,39469.36,4,36.0,Card,Chattogram,6,101041.57
+ORD-596,2025-05-27,5,Fashion,1557.65,4,13.71,Cash on Delivery,Barishal,7,5376.4
+ORD-597,2025-11-15,11,Home & Kitchen,3935.33,2,1.56,Nagad,Rajshahi,3,7747.88
+ORD-598,2025-02-18,2,Grocery,1674.58,2,19.78,Cash on Delivery,Chattogram,7,2686.69
+ORD-599,2025-07-19,7,Sports,3966.64,3,4.96,bKash,Chattogram,2,11309.7
+ORD-600,2025-03-12,3,Grocery,1863.34,4,9.54,Card,Dhaka,4,6742.31
